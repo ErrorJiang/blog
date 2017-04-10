@@ -1,1 +1,1 @@
-## [博客目录](https://github.com/jawil/blog/issues)
+## [博客目录](https://github.com/ErrorJiang/blog/issues)
